@@ -1,0 +1,14 @@
+<!--@ output jfarkas9.github.io\index.html @-->
+<!--@ output index.html @-->
+<!--@ include header @-->
+<div>
+	<p> Hello, I'm Josh</p>
+	<p class="indent"> I am an aspiring software developer in Central Florida. I received my Bachelors in
+		    Science from <a href="https://www.ucf.edu/">University of Central Florida</a>. I have a few personal 
+            projects that I have worked on. I enjoy consuming various forms of media, and some of my interests include 
+            theme parks, cooking, cats, motorcycles, video games, and coffee. <br><br>
+			This is a work in progress, so please bear with me. </p>
+	<p>Thank You,<br>~Josh Farkas</p>
+</div>
+
+<!--@ include footer @-->

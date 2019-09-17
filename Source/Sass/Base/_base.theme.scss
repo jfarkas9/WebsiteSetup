@@ -1,0 +1,28 @@
+html
+{
+    background: $color1;
+    color: $color4;
+}
+
+nav li a {
+	color: $color5;
+    &:hover {
+	    color: $color3;
+    }   
+}
+
+h2, h3{
+    color: $color3
+}
+
+a{
+    color: $color4;
+    &visited{
+        color: $color3
+    }
+}
+
+hr{
+    color:$color5
+}
+

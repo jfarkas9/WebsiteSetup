@@ -1,0 +1,10 @@
+        <hr>
+        <div id="profiles">
+            <h3> Profiles </h3>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/joshfarkas09/">LinkedIn</a></li>
+                <li><a href="https://github.com/jfarkas9">GitHub</a></li>
+            </ul>
+        </div>
+    </body>
+</html>

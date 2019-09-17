@@ -1,0 +1,70 @@
+<!--@ output jfarkas9.github.io\resume.html @-->
+<!--@ output resume.html @-->
+<!--@ include header @-->
+<!--$ 
+  <Data>
+    <Variable Name="ResumeURL">https://drive.google.com/open?id=1k8_oCPoaMqinWdzleBO5Zfs1WwI5_AI9</Variable>
+  </Data>
+$-->
+<div>
+    <h2>Resume</h2>
+    <a href="$$ResumeURL$$">Printable Form</a>
+    <div>
+        <h3>Technical Skills</h3>
+        <p>Languages: Java, C, C++, C#<br>
+            Version Control: Git, SVN<br>
+            Tools: Visual Studio, Eclipse, Android Studio, IntelliJ<br>
+            Databases: SQL Server, MySQL, SQLite, Access, MongoDB/NoSQL</p>
+        <p>Technologies currently studying: WPF, MVC, HTML/CSS with Angular and React</p>
+    </div>
+    <div>
+        <h3>Education</h3>
+
+        <p>University Central Florida<br>
+            BASc Software Development - May 3, 2018<br>
+            GPA: 3.28</p>
+        <p>Coursework: Advanced Java, C, C++, C#, Advanced Database Development, Project Management, Mobile
+            Device<br>
+            Software Development (Android), Open Source Web Technologies<br>
+            All courses listed on LinkedIn</p>
+    </div>
+    <div>
+        <h3>Projects</h3>
+        <p><a href="projects.html">Browse over to my Projects section to see my personal and student projects.</a>
+        </p>
+    </div>
+    <div>
+        <h3>Work Experience</h3>
+        <p>Universal Studios Florida, Orlando, FL Nov 2015 – June 2019<br>
+            <em>Park Services Attendant / Lead</em><br>
+            <ul>
+                <li>Coordinated team effort to maintain park cleanliness and provide guest service. </li>
+                <li>Accessed intranet to view team schedule, daily events, and other pertinent information.</li>
+                <li>Utilize ticketing system to input any technical issues. </li>
+                <li>Relay crucial communication from management to team.</li>
+            </ul>
+        </p>
+
+        <p>Arnold Palmer Medical Center, Orlando, FL Feb 2014 – Nov 2015<br>
+            <em>Guest Services Representative</em><br>
+            <ul>
+                <li>Utilized multiple programs to serve guests and patients.</li>
+                <li>Trained coworkers in the efficient use of computers.</li>
+                <li>Navigated several vast resources to provide information about facility and operations.</li>
+                <li>Partnered with contractor to customize utility for better use.</li>
+            </ul>
+        </p>
+
+        <p>Orlando Regional Medical Center, Orlando, FL Mar 2011 – Feb 2014<br>
+            <em>Patient Transporter</em><br>
+            <ul>
+                <li>Utilized several programs to plan, initializes, and track patient movement.</li>
+                <li>Supervised transporters for coordinated patient movement.</li>
+                <li>Trained individuals in other departments in the use of transportation systems.</li>
+                <li>Collaborated to develop an equipment tracking program.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<!--@ include footer @-->

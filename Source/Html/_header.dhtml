@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="utf-8">
+        <title>JFarkas</title>
+        <link href="/Assets/Css/style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <nav>
+	        <ul>
+		        <li class="title"><a href="index.html">Joshua Farkas</a></li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="resume.html">Resume</a></li>
+				<li><a href="projects.html">Projects</a></li>
+				<li><a href="reading.html">Reading List</a></li>
+			</ul>
+		</nav>

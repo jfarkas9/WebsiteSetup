@@ -1,0 +1,42 @@
+@import "Base/base";
+
+body{	
+	max-width: 75%;
+	margin: auto;
+}
+
+nav{
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        border-bottom: 5px double $color2
+    }
+  
+    li {
+        float: left; 
+
+        a{
+            display: block;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+    }    
+}
+  
+.indent{
+	text-indent: 2em;
+}
+
+div li{
+   list-style-type: square;
+}
+
+#profiles li{
+    list-style-type:square;
+    float: left;
+    margin: 12px;
+}
+

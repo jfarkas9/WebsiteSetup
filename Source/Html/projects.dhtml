@@ -1,0 +1,67 @@
+<!--@ output jfarkas9.github.io\projects.html @-->
+<!--@ output projects.html @-->
+<!--@ include header @-->
+<div>
+    <div>
+        <!--
+            Template for project
+            <p><a href="">T</a>
+            <ul>
+                <li>E</li>
+                <li>T</li>
+            </ul>
+            </p>
+        -->
+        <h2>Personal Projects</h2>
+        <p><a href="https://github.com/jfarkas9/InterviewHelper">Interview Helper</a>
+            <ul>
+                <li>Visual Studio, C#</li>
+                <li>WPF, Entity, SQLite, GIT</li>
+                <li>Code First Database, Using Entity Migrations</li>
+            </ul>
+        </p>
+
+        <p><a href="https://github.com/jfarkas9/jfarkas9.github.io">Personal Website</a>
+            <ul>
+                <li>GitHub Pages</li>
+                <li>HTML/CSS, Sass, DnaWeb</li>
+                <li>Used in preparation to learn JavaScript, Angular, and React</li>
+            </ul>
+        </p>
+        <p><a href="https://github.com/jfarkas9/AquaChem">AquaChem</a>
+            <ul>
+                <li>Visual Studio, C#</li>
+                <li>Windows Forms, Entity Framework, SQL Server, GIT </li>
+            </ul>
+        </p>
+        <p><a href="https://github.com/jfarkas9/DaysWorkingCreator">DaysWorking Creator</a>
+            <ul>
+                <li>Eclipse, Java</li>
+                <li>Generates a text file I used to track my personal schedule</li>
+            </ul>
+        </p>
+        <p><a href="https://github.com/jfarkas9/FlappyBirdClone">Flappy Bird Clone</a>
+            <ul>
+                <li>Processing</li>
+                <li>Quick and dirty clone used to play with Processing</li>
+            </ul>
+        </p>
+
+        <h2>Student Projects</h2>
+        <p>Laundry App:
+            <ul>
+                <li>Android Studio, Java</li>
+                <li>SQLite</li>
+            </ul>
+        </p>
+        <p>Customer Satisfaction Feedback
+            <ul>
+                <li>Eclipse, Java</li>
+                <li>Swing, REST, MySQL</li>
+                <li>Lead GUI developer.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<!--@ include footer @-->
